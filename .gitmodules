@@ -1,9 +1,9 @@
 [submodule "bundle/checksyntax_vim"]
 	path = bundle/checksyntax_vim
-	url = https://github.com/tomtom/checksyntax_vim.git
+	url = git://github.com/tomtom/checksyntax_vim.git
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
-	url = https://github.com/flazz/vim-colorschemes.git
+	url = git://github.com/flazz/vim-colorschemes.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
+	url = git://github.com/scrooloose/nerdtree.git
